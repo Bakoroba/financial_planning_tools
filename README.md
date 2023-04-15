@@ -48,6 +48,6 @@ To run the app use Jupyler lab dev environment
 
 ## Contributors
 
-The project is based on the template of the Columbia University FinTech Bootcamp Module 4 Challenge.
+The project is based on the template of the Columbia University FinTech Bootcamp Module 5 Challenge.
 
 ---
